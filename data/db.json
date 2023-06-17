@@ -1,0 +1,31 @@
+{
+  "Products":[
+    {
+      "id": 1,
+      "name":"Computer",
+       "Price": 5000,
+      "promotion":false,
+      "stars":5,
+      "image":"images/1.png",
+      "description": "A computer is a machine or device that performs processes, calculations and operations based on instructions provided by a software or hardware program. It has the ability to accept data (input), process it, and then produce outputs.",
+    },
+    {
+      "id": 2,
+      "name":"Printer",
+      "Price": 1500,
+      "promotion":false,
+      "stars":4,
+      "image":"images/2_.png",
+      "description":"printer is a device that accepts text and graphic output from a computer and transfers the information to paper, usually to standard-size, 8.5\" by 11\" sheets of paper. Printers vary in size, speed, sophistication and cost."
+    },
+    {
+      "id": 3,
+      "name":"PlayStation5",
+      "Price": 7000,
+      "promotion":true,
+      "stars":5,
+      "image":"images/3_.png",
+      "description":"printer is a device that accepts text and graphic output from a computer and transfers the information to paper, usually to standard-size, 8.5\" by 11\" sheets of paper. Printers vary in size, speed, sophistication and cost."
+    }
+  ]
+}
